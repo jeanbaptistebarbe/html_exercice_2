@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Exercice HTML 1 : Les écoles d'ingénieurs</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>Apprenant</h1>
+  <p1>Les écoles d'ingénieurs avec prépa intégrée.</p1>
+  <h2>On est des fous</h2>
+  <p2>La vie est belle quand on a un grain de folie</p2>
+  <h2>Mais on est sympa</h2>
+  <p3>Oui, oui, on est sympa même avec cette folie</p3>
+</body>
+</html>
